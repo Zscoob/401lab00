@@ -1,5 +1,6 @@
 ##hello##
 ##unable to get past step "jsdoc"##
+
 ##serverup##
 
 # LAB - 00
@@ -45,3 +46,6 @@ returns true/false to indicate the server works
 
 #### UML
 ![UML Diagram](whiteboard.jpg)
+=======
+##serverup##
+
